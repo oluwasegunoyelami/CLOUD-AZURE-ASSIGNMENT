@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'oluwasegunoyelami'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_3864E6177A374210A53B9AC656AD3700 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_35F8B83A069445A381CB204EB0E5368C }}
